@@ -21,7 +21,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 !/package-lock.json
-# See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # compiled output
 dist
@@ -46,7 +45,6 @@ tmp
 !.vscode/extensions.json
 
 # misc
-/.angular/cache
 /.sass-cache
 /connect.lock
 /coverage/*
@@ -60,26 +58,3 @@ testem.log
 # e2e
 /e2e/*.js
 /e2e/*.map
-
-#System Files
-.DS_Store
-Thumbs.db
-.vscode/settings.json
-build.ps1
-
-/test-report
-.gradle/6.7.1/gc.properties
-.gradle/6.7.1/fileChanges/last-build.bin
-.gradle/6.7.1/fileHashes/fileHashes.lock
-.gradle/checksums/checksums.lock
-.gradle/configuration-cache/gc.properties
-.gradle/vcs-1/gc.properties
-.VSCodeCounter/2023-06-27_14-52-19/details.md
-.VSCodeCounter/2023-06-27_14-52-19/diff.csv
-.VSCodeCounter/2023-06-27_14-52-19/diff.md
-.VSCodeCounter/2023-06-27_14-52-19/diff.txt
-.VSCodeCounter/2023-06-27_14-52-19/diff-details.md
-.VSCodeCounter/2023-06-27_14-52-19/results.csv
-.VSCodeCounter/2023-06-27_14-52-19/results.json
-.VSCodeCounter/2023-06-27_14-52-19/results.md
-.VSCodeCounter/2023-06-27_14-52-19/results.txt
