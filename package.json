@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "tahaPortfolio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": ".",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",

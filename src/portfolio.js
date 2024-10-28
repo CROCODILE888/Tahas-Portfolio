@@ -11,7 +11,7 @@ const seo = {
   og: {
     title: "Taha Lokhandwala Portfolio",
     type: "website",
-    url: "",
+    url: "https://tahas-portfolio-react.netlify.app",
   },
 };
 
@@ -21,7 +21,8 @@ const greeting = {
   logo_name: "Taha Lokhandwala",
   subTitle:
     "As a Full Stack Developer with hands-on experience, I thrive in building scalable, high-performance applications for the modern web.",
-  resumeLink: "https://drive.google.com/drive/folders/13VzDf9EOpI4NibDO5XBDP89KSdUjaUXa?usp=drive_link",
+  resumeLink:
+    "https://drive.google.com/drive/folders/13VzDf9EOpI4NibDO5XBDP89KSdUjaUXa?usp=drive_link",
   portfolio_repository: "https://github.com/CROCODILE888/Tahas-Portfolio",
   githubProfile: "https://github.com/CROCODILE888",
 };
@@ -53,9 +54,9 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Building responsive website front end using React-Redux/ Angular",
+        "⚡ Developing mobile applications using React Native",
+        "⚡ Creating application backend in Node, Express & Java",
       ],
       softwareSkills: [
         {
@@ -105,9 +106,9 @@ const skills = {
             color: "#CC6699",
           },
         },
-      ]
-    }
-  ]
+      ],
+    },
+  ],
 };
 
 // Education Page
@@ -216,7 +217,7 @@ const experience = {
           duration: "Jun 2020 - Oct 2020",
           location: "Remote",
           description:
-          "Developed Java-based applications with a focus on object-oriented programming and best practices. Received training in the full software lifecycle, including requirement analysis, development, and testing.",
+            "Developed Java-based applications with a focus on object-oriented programming and best practices. Received training in the full software lifecycle, including requirement analysis, development, and testing.",
           color: "#000000",
         },
       ],
@@ -238,7 +239,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "Taha-animated.png",
     description:
-      "I am available on very limited social media. You can message me, I will reply within 24 hours.",
+      "I am available on very limited social media but you can message me and I will reply within 24 hours.",
   },
   phoneSection: {
     title: "",
