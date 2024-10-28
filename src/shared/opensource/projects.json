@@ -1,149 +1,201 @@
 {
-    "data": [
+  "data": [
+    {
+      "id": "1",
+      "name": "Random quote generator",
+      "createdAt": "2024-10-13T04:18:19Z",
+      "url": "https://github.com/CROCODILE888/Random-Quote-Generator-FCC",
+      "liveProjectLink": "https://tahas-great-quotes.netlify.app/",
+      "description": "A react application that generates a random motivational/ funny quote on every click.",
+      "languages": [
         {
-            "id": "1",
-            "name": "Random quote generator",
-            "createdAt": "2024-10-13T04:18:19Z",
-            "url": "https://github.com/CROCODILE888/Random-Quote-Generator-FCC",
-            "liveProjectLink": "https://tahas-great-quotes.netlify.app/",
-            "description": "A basic react application that generates a random motivational/ funny quote on every click.",
-            "languages": [
-                {
-                    "name": "React",
-                    "iconifyClass": "simple-icons:react"
-                },
-                {
-                    "name": "TypeScript",
-                    "iconifyClass": "devicon:typescript"
-                },
-                {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
-                },
-                {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
-                }
-            ]
+          "name": "React",
+          "iconifyClass": "simple-icons:react"
         },
         {
-            "id": "2",
-            "name": "Drum Machine",
-            "createdAt": "2024-10-13T20:41:33Z",
-            "url": "https://github.com/CROCODILE888/Drum-Machine-FCC",
-            "liveProjectLink": "https://taha-the-online-drummer.netlify.app/",
-            "description": "A React based Drum Machine that plays sound on clicking and pressing corresponding keys.",
-            "languages": [
-                {
-                    "name": "React",
-                    "iconifyClass": "simple-icons:react"
-                },
-                {
-                    "name": "TypeScript",
-                    "iconifyClass": "devicon:typescript"
-                },
-                {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
-                },
-                {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
-                }
-            ]
+          "name": "TypeScript",
+          "iconifyClass": "devicon:typescript"
         },
         {
-            "id": "3",
-            "name": "Portfolio",
-            "createdAt": "2024-10-26T16:26:54Z",
-            "url": "https://github.com/CROCODILE888/Tahas-Portfolio",
-            "description": "🔥 My personal software developer portfolio showcasing my background and work.",
-            "languages": [
-                {
-                    "name": "React",
-                    "iconifyClass": "simple-icons:react"
-                },
-                {
-                    "name": "JavaScript",
-                    "iconifyClass": "logos-javascript"
-                },
-                {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
-                },
-                {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
-                }   
-            ]
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
         },
         {
-            "id": "4",
-            "name": "Angular Projects",
-            "createdAt": "2023-12-11T14:50:20Z",
-            "url": "https://github.com/CROCODILE888/Angular-projects",
-            "description": "Simple angular projects demonstrating different features of angular.",
-            "languages": [
-                {
-                    "name": "Angular",
-                    "iconifyClass": "vscode-icons:file-type-angular"
-                },
-                {
-                    "name": "TypeScript",
-                    "iconifyClass": "devicon:typescript"
-                },
-                {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
-                },
-                {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
-                }
-            ]
-        },
-        {
-            "id": "5",
-            "name": "FE Projects",
-            "createdAt": "2023-05-4T14:50:20Z",
-            "url": "https://github.com/CROCODILE888/freeCodeCamp-projects",
-            "liveProjectLink": "https://crocodile888.github.io/freeCodeCamp-projects/",
-            "description": "Some basic front end projects I did after completing freeCodeCamp's free course.",
-            "languages": [
-                {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
-                },
-                {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
-                }
-            ]
-        },
-        {
-            "id": "6",
-            "name": "React Calculator",
-            "createdAt": "2024-10-24T14:50:20Z",
-            "url": "https://github.com/CROCODILE888/React-Calculator-FCC",
-            "description": "(Under development)",
-            "languages": [
-                {
-                    "name": "React",
-                    "iconifyClass": "simple-icons:react"
-                },
-                {
-                    "name": "TypeScript",
-                    "iconifyClass": "devicon:typescript"
-                },
-                {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
-                },
-                {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
-                }
-            ]
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
         }
-    ]
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Drum Machine",
+      "createdAt": "2024-10-13T20:41:33Z",
+      "url": "https://github.com/CROCODILE888/Drum-Machine-FCC",
+      "liveProjectLink": "https://taha-the-online-drummer.netlify.app/",
+      "description": "A React based Drum Machine that plays sound on clicking and pressing corresponding keys.",
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "TypeScript",
+          "iconifyClass": "devicon:typescript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Real Estate App",
+      "createdAt": "2023-12-15T14:50:20Z",
+      "url": "https://github.com/CROCODILE888/Angular-Homes",
+      "liveProjectLink": "https://taha-homes-ng.netlify.app/",
+      "description": "A real estate application that shows different housings available with its features.",
+      "languages": [
+        {
+          "name": "Angular",
+          "iconifyClass": "vscode-icons:file-type-angular"
+        },
+        {
+          "name": "TypeScript",
+          "iconifyClass": "devicon:typescript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Personal Portfolio",
+      "createdAt": "2024-10-26T16:26:54Z",
+      "url": "https://github.com/CROCODILE888/Tahas-Portfolio",
+      "description": "🔥 My personal software developer portfolio showcasing my background and work.",
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Shopping App",
+      "createdAt": "2023-12-10T14:50:20Z",
+      "url": "https://github.com/CROCODILE888/Angular-shopping-app",
+      "liveProjectLink": "https://taha-shopping-app-ng.netlify.app/",
+      "description": "A simple shopping application UI",
+      "languages": [
+        {
+          "name": "Angular",
+          "iconifyClass": "vscode-icons:file-type-angular"
+        },
+        {
+          "name": "TypeScript",
+          "iconifyClass": "devicon:typescript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Other Angular Projects",
+      "createdAt": "2023-12-01T14:50:20Z",
+      "url": "https://github.com/CROCODILE888/Angular-projects",
+      "description": "Other simple angular projects demonstrating different features of angular.",
+      "languages": [
+        {
+          "name": "Angular",
+          "iconifyClass": "vscode-icons:file-type-angular"
+        },
+        {
+          "name": "TypeScript",
+          "iconifyClass": "devicon:typescript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Front-end Projects",
+      "createdAt": "2023-05-4T14:50:20Z",
+      "url": "https://github.com/CROCODILE888/freeCodeCamp-projects",
+      "liveProjectLink": "https://crocodile888.github.io/freeCodeCamp-projects/",
+      "description": "Some basic front end projects I did after completing freeCodeCamp's free course.",
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "React Calculator",
+      "createdAt": "2024-10-24T14:50:20Z",
+      "url": "https://github.com/CROCODILE888/React-Calculator-FCC",
+      "description": "(Under development)",
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "TypeScript",
+          "iconifyClass": "devicon:typescript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    }
+  ]
 }
