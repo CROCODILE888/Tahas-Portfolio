@@ -27,16 +27,16 @@
       ]
     },
     {
-      "id": "2",
-      "name": "Drum Machine",
-      "createdAt": "2024-10-13T20:41:33Z",
-      "url": "https://github.com/CROCODILE888/Drum-Machine-FCC",
-      "liveProjectLink": "https://taha-the-online-drummer.netlify.app/",
-      "description": "A React based Drum Machine that plays sound on clicking and pressing corresponding keys.",
+      "id": "3",
+      "name": "Real Estate App",
+      "createdAt": "2023-12-15T14:50:20Z",
+      "url": "https://github.com/CROCODILE888/Angular-Homes",
+      "liveProjectLink": "https://taha-homes-ng.netlify.app/",
+      "description": "A real estate application that shows different housings available with its features.",
       "languages": [
         {
-          "name": "React",
-          "iconifyClass": "simple-icons:react"
+          "name": "Angular",
+          "iconifyClass": "vscode-icons:file-type-angular"
         },
         {
           "name": "TypeScript",
@@ -53,16 +53,16 @@
       ]
     },
     {
-      "id": "3",
-      "name": "Real Estate App",
-      "createdAt": "2023-12-15T14:50:20Z",
-      "url": "https://github.com/CROCODILE888/Angular-Homes",
-      "liveProjectLink": "https://taha-homes-ng.netlify.app/",
-      "description": "A real estate application that shows different housings available with its features.",
+      "id": "8",
+      "name": "React Calculator",
+      "createdAt": "2025-01-07T14:50:20Z",
+      "url": "https://github.com/CROCODILE888/React-Calculator-FCC",
+      "liveProjectLink": "https://taha-the-calculator.netlify.app/",
+      "description": "A functional calculator with a clean UI along with keyboard and button input support.",
       "languages": [
         {
-          "name": "Angular",
-          "iconifyClass": "vscode-icons:file-type-angular"
+          "name": "React",
+          "iconifyClass": "simple-icons:react"
         },
         {
           "name": "TypeScript",
@@ -130,6 +130,32 @@
       ]
     },
     {
+      "id": "2",
+      "name": "Drum Machine",
+      "createdAt": "2024-10-13T20:41:33Z",
+      "url": "https://github.com/CROCODILE888/Drum-Machine-FCC",
+      "liveProjectLink": "https://taha-the-online-drummer.netlify.app/",
+      "description": "A React based Drum Machine that plays sound on clicking and pressing corresponding keys.",
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "TypeScript",
+          "iconifyClass": "devicon:typescript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
       "id": "6",
       "name": "Other Angular Projects",
       "createdAt": "2023-12-01T14:50:20Z",
@@ -162,31 +188,6 @@
       "liveProjectLink": "https://crocodile888.github.io/freeCodeCamp-projects/",
       "description": "Some basic front end projects I did after completing freeCodeCamp's free course.",
       "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        }
-      ]
-    },
-    {
-      "id": "8",
-      "name": "React Calculator",
-      "createdAt": "2024-10-24T14:50:20Z",
-      "url": "https://github.com/CROCODILE888/React-Calculator-FCC",
-      "description": "(Under development)",
-      "languages": [
-        {
-          "name": "React",
-          "iconifyClass": "simple-icons:react"
-        },
-        {
-          "name": "TypeScript",
-          "iconifyClass": "devicon:typescript"
-        },
         {
           "name": "HTML",
           "iconifyClass": "logos-html-5"

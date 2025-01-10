@@ -82,10 +82,17 @@ const skills = {
           },
         },
         {
-          skillName: "ReactJS",
+          skillName: "ReactJS and React native",
           fontAwesomeClassname: "simple-icons:react",
           style: {
             color: "#61DAFB",
+          },
+        },
+        {
+          skillName: "Next.js",
+          fontAwesomeClassname: "simple-icons:nextdotjs",
+          style: {
+            color: "#000",
           },
         },
         {
@@ -184,10 +191,22 @@ const experience = {
       experiences: [
         {
           title: "Full Stack Developer",
+          company: "Al Merak Tech",
+          company_url: "https://almerak.com/",
+          logo_path: "merak-logo1.jpg",
+          duration: "Nov 2024 - Dec 2024",
+          location: "Pune, India",
+          description: `Full Stack Developer | Short-Term Projects from scratch (2 Months) 
+            Food Ordering PWA - Built a Progressive Web Application (PWA) for seamless online food ordering using Next.js (React), ensuring responsiveness and fast performance. 
+            Salon and Products Booking Mobile App - Developed a cross-platform mobile application for booking salon services and purchasing products using Expo (React Native), focusing on intuitive UI/UX and real-time updates.`,
+          color: "#ffffff",
+        },
+        {
+          title: "Full Stack Developer",
           company: "Polyglot Consultants",
           company_url: "https://lspware.com/",
           logo_path: "lspware.png",
-          duration: "Nov 2023 - Present",
+          duration: "May 2023 - Oct 2024",
           location: "Pune, India",
           description:
             "Developed a comprehensive case management system using Angular 14 for the frontend and Java 8 for the backend, aiding healthcare professionals in efficiently managing client information and records. Performed extensive unit testing using JUnit with Mockito, Jasmine, and Karma, ensuring code quality and catching bugs early in the development process",
@@ -237,7 +256,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "Taha-animated.png",
+    profile_image_path: "Taha-animated1.png",
     description:
       "I am available on very limited social media but you can message me and I will reply within 24 hours.",
   },
