@@ -182,7 +182,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work and Internship",
   description:
-    "I have worked as a Full Stack Developer and have had multiple trainings and internships that boosts my candidature",
+    "I bring valuable experience as a Full Stack Developer, complemented by multiple internships and professional training programs. These opportunities have equipped me with a versatile skill set, practical industry knowledge, and the ability to deliver impactful solutions in dynamic environments.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -194,10 +194,10 @@ const experience = {
           company: "Al Merak Tech",
           company_url: "https://almerak.com/",
           logo_path: "merak-logo1.jpg",
-          duration: "Nov 2024 - Dec 2024",
+          duration: "Nov 2024 - Jan 2025",
           location: "Pune, India",
           description: `Full Stack Developer | Short-Term Projects from scratch (2 Months) 
-            Food Ordering PWA - Built a Progressive Web Application (PWA) for seamless online food ordering using Next.js (React), ensuring responsiveness and fast performance. 
+            Food Ordering PWA - Built a Progressive Web Application (PWA) for seamless online food ordering, ensuring responsiveness and fast performance. 
             Salon and Products Booking Mobile App - Developed a cross-platform mobile application for booking salon services and purchasing products using Expo (React Native), focusing on intuitive UI/UX and real-time updates.`,
           color: "#ffffff",
         },
@@ -209,7 +209,7 @@ const experience = {
           duration: "May 2023 - Oct 2024",
           location: "Pune, India",
           description:
-            "Developed a comprehensive case management system using Angular 14 for the frontend and Java 8 for the backend, aiding healthcare professionals in efficiently managing client information and records. Performed extensive unit testing using JUnit with Mockito, Jasmine, and Karma, ensuring code quality and catching bugs early in the development process",
+            "Developed a scalable case management system with a modern frontend and a robust backend, enabling efficient data management and improving operational workflows. Ensured high code quality through comprehensive unit testing using industry-standard tools.",
           color: "#ffffff",
         },
       ],
