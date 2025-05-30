@@ -194,7 +194,7 @@ const experience = {
           company: "Al Merak Tech",
           company_url: "https://almerak.com/",
           logo_path: "merak-logo1.jpg",
-          duration: "Nov 2024 - Jan 2025",
+          // duration: "Nov 2024 - Jan 2025",
           location: "Pune, India",
           description: `Full Stack Developer | Short-Term Projects from scratch (2 Months) 
             Food Ordering PWA - Built a Progressive Web Application (PWA) for seamless online food ordering, ensuring responsiveness and fast performance. 
@@ -206,7 +206,7 @@ const experience = {
           company: "Polyglot Consultants",
           company_url: "https://lspware.com/",
           logo_path: "lspware.png",
-          duration: "May 2023 - Oct 2024",
+          // duration: "May 2023 - Oct 2024",
           location: "Pune, India",
           description:
             "Developed a scalable case management system with a modern frontend and a robust backend, enabling efficient data management and improving operational workflows. Ensured high code quality through comprehensive unit testing using industry-standard tools.",
