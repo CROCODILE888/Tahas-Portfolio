@@ -14,7 +14,6 @@ This project is built with ReactJS
 - **Projects Section**: Highlights my professional and personal projects with descriptions, technologies used, and links to live demos and GitHub repositories.
 - **About Me**: Provides an overview of my background, skills, and experiences.
 - **Social Media Links**: Links to my LinkedIn, GitHub, and other profiles.
-- **Link to my Resume**: I have provided a link to my google drive folder which contains my updated resume.
 
 ## Deployment
 
