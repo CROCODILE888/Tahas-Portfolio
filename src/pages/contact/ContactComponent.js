@@ -22,6 +22,7 @@ class Contact extends Component {
             <div className="contact-heading-div">
               <div className="contact-heading-img-div">
                 <img
+                  style={{ borderRadius: "20px" }}
                   src={require(`../../assets/images/${ContactData["profile_image_path"]}`)}
                   alt=""
                 />
@@ -40,6 +41,7 @@ class Contact extends Component {
                   {ContactData["description"]}
                 </p>
                 <SocialMedia theme={theme} />
+                <p>&lt;Email.js implementation coming soon&gt;</p>
                 {/* <div className="resume-btn-div">
                   <Button
                     text="See My Resume"

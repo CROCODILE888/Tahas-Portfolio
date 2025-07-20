@@ -5,7 +5,7 @@ import GithubRepoCard from "../../components/githubRepoCard/GithubRepoCard";
 import Button from "../../components/button/Button";
 import TopButton from "../../components/topButton/TopButton";
 import { Fade } from "react-reveal";
-import { greeting, projectsHeader} from "../../portfolio.js";
+import { greeting, projectsHeader } from "../../portfolio.js";
 import ProjectsData from "../../shared/opensource/projects.json";
 import "./Projects.css";
 import ProjectsImg from "./ProjectsImg";
@@ -16,11 +16,10 @@ class Projects extends Component {
     return (
       <div className="projects-main">
         <Header theme={theme} />
-        
+
         <div className="basic-projects">
           <Fade bottom duration={2000} distance="40px">
             <div className="projects-heading-div">
-
               <div className="projects-heading-img-div">
                 <ProjectsImg theme={theme} />
               </div>
@@ -28,16 +27,28 @@ class Projects extends Component {
               <div className="projects-heading-text-div">
                 <h1
                   className="projects-heading-text"
-                  style={{ color: theme.text }}>
+                  style={{ color: theme.text }}
+                >
                   {projectsHeader.title}
                 </h1>
 
                 <p
                   className="projects-header-detail-text subTitle"
-                  style={{ color: theme.secondaryText }}>
+                  style={{ color: theme.secondaryText }}
+                >
                   {projectsHeader["description"]}
                 </p>
 
+                <Button
+                  text={"Data Science projects"}
+                  className="project-button"
+                  href={
+                    greeting.githubProfile +
+                    "/Codveda-Data-Science-Internship-Tasks"
+                  }
+                  newTab={true}
+                  theme={theme}
+                />
               </div>
             </div>
           </Fade>

@@ -1,6 +1,84 @@
 {
   "data": [
     {
+      "id": "9",
+      "name": "Food Ordering PWA",
+      "createdAt": "2024-11-28T04:18:19Z",
+      "url": "https://github.com/CROCODILE888/food-app",
+      "liveProjectLink": "https://taha-the-food-ordererer.netlify.app/home",
+      "description": "Developed a responsive Progressive Web Application (PWA) using Next.js for seamless online food ordering.",
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "Next.js",
+          "iconifyClass": "simple-icons:nextdotjs"
+        },
+        {
+          "name": "TypeScript",
+          "iconifyClass": "devicon:typescript"
+        },
+        {
+          "name": "Axios",
+          "iconifyClass": "simple-icons:axios"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Ali Trading Co. Website",
+      "createdAt": "2025-05-13T04:18:19Z",
+      "url": "https://github.com/CROCODILE888/ATCO",
+      "liveProjectLink": "https://pomodoro-clock-three-kappa.vercel.app/",
+      "description": "A complete business website for Ali Trading Company, a Pune-based hardware supplier.",
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "Tailwind CSS",
+          "iconifyClass": "simple-icons:tailwindcss"
+        },
+        {
+          "name": "TypeScript",
+          "iconifyClass": "devicon:typescript"
+        },
+        {
+          "name": "Vercel",
+          "iconifyClass": "simple-icons:vercel"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "25+5 Pomodoro Clock",
+      "createdAt": "2025-02-13T04:18:19Z",
+      "url": "https://github.com/CROCODILE888/pomodoro-clock",
+      "liveProjectLink": "https://pomodoro-clock-three-kappa.vercel.app/",
+      "description": "The Pomodoro Clock is a simple web app that helps users manage their work & break intervals using the Pomodoro Technique.",
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "Tailwind CSS",
+          "iconifyClass": "simple-icons:tailwindcss"
+        },
+        {
+          "name": "TypeScript",
+          "iconifyClass": "devicon:typescript"
+        },
+        {
+          "name": "Vercel",
+          "iconifyClass": "simple-icons:vercel"
+        }
+      ]
+    },
+    {
       "id": "1",
       "name": "Random quote generator",
       "createdAt": "2024-10-13T04:18:19Z",

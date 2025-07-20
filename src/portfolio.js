@@ -46,6 +46,12 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-google",
     backgroundColor: "#D14836",
   },
+  {
+    name: "WhatsApp",
+    link: "https://wa.me/9284536939",
+    fontAwesomeIcon: "fa-whatsapp",
+    backgroundColor: "#26c962",
+  },
 ];
 
 const skills = {
@@ -115,6 +121,54 @@ const skills = {
         },
       ],
     },
+    {
+      title: "Data Science & AI",
+      fileName: "DataScienceImg",
+      skills: [
+        "⚡ Currently working on real-world data science tasks like web scraping, data cleaning, and preprocessing",
+        "⚡ Hands-on experience with Python libraries such as pandas, NumPy, and scikit-learn for data manipulation and modeling",
+        "⚡ Familiar with building machine learning models and evaluating them using standard metrics",
+        "⚡ Comfortable using Jupyter Notebooks and visualizing data using matplotlib and seaborn",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Python",
+          fontAwesomeClassname: "ion-logo-python",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Pandas",
+          fontAwesomeClassname: "simple-icons:pandas",
+          style: {
+            backgroundColor: "white",
+            color: "#150458",
+          },
+        },
+        {
+          skillName: "NumPy",
+          fontAwesomeClassname: "simple-icons:numpy",
+          style: {
+            backgroundColor: "white",
+            color: "#013243",
+          },
+        },
+        {
+          skillName: "Scikit-learn",
+          fontAwesomeClassname: "simple-icons:scikitlearn",
+          style: {
+            backgroundColor: "white",
+            color: "#F7931E",
+          },
+        },
+        {
+          skillName: "Seaborn",
+          imageSrc: "seaborn1.png",
+        },
+      ],
+    },
   ],
 };
 
@@ -139,12 +193,57 @@ const degrees = {
 const certifications = {
   certifications: [
     {
+      title: "Front End Development Libraries",
+      subtitle: "- Quincy Larson",
+      logo_path: "FreeCodeCamp_logo.png",
+      certificate_link:
+        "https://freecodecamp.org/certification/crocodile8/front-end-development-libraries",
+      alt_name: "freeCodeCamp",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Node.js Essential Training",
+      subtitle: "- LinkedIn",
+      logo_path: "linkedin_logo.png",
+      certificate_link:
+        "https://www.linkedin.com/learning/certificates/636d7b9f66689ec02d1775f785578a55782d957ed4fdfe5ba52e0de729ac04b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BJL7s%2FmxySiy2mvbACn%2Bgtw%3D%3D",
+      alt_name: "LinkedIn",
+      color_code: "#ffffff",
+    },
+    {
       title: "JavaScript DSA",
       subtitle: "- Quincy Larson",
       logo_path: "FreeCodeCamp_logo.png",
       certificate_link:
         "https://www.freecodecamp.org/certification/crocodile8/javascript-algorithms-and-data-structures",
       alt_name: "freeCodeCamp",
+      color_code: "#ffffff",
+    },
+    {
+      title: "DevOps Foundations: CI/CD",
+      subtitle: "- LinkedIn",
+      logo_path: "linkedin_logo.png",
+      certificate_link:
+        "https://www.linkedin.com/learning/certificates/0c49bb5438edabfcd6dea7055a47e5d6e31c6b67a0f0158bf147eea3011e6760?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BJL7s%2FmxySiy2mvbACn%2Bgtw%3D%3D",
+      alt_name: "LinkedIn",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Responsive Web Design",
+      subtitle: "- Quincy Larson",
+      logo_path: "FreeCodeCamp_logo.png",
+      certificate_link:
+        "https://www.freecodecamp.org/certification/crocodile8/responsive-web-design",
+      alt_name: "freeCodeCamp",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Express Essentials",
+      subtitle: "- LinkedIn",
+      logo_path: "linkedin_logo.png",
+      certificate_link:
+        "https://www.linkedin.com/learning/certificates/3391f8b3b9b4a789e896ea9687b6a2df4a98a4a42e91fb684855082b3862fc5a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BJL7s%2FmxySiy2mvbACn%2Bgtw%3D%3D",
+      alt_name: "LinkedIn",
       color_code: "#ffffff",
     },
     {
@@ -157,21 +256,21 @@ const certifications = {
       color_code: "#ffffff",
     },
     {
+      title: "MongoDB",
+      subtitle: "- LinkedIn",
+      logo_path: "linkedin_logo.png",
+      certificate_link:
+        "https://www.linkedin.com/learning/certificates/ec4928fde88f62f36f84296707685d76c4b4545b8ad737efa949c99d12f8bc28?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BJL7s%2FmxySiy2mvbACn%2Bgtw%3D%3D",
+      alt_name: "LinkedIn",
+      color_code: "#ffffff",
+    },
+    {
       title: "Tableau",
       subtitle: "- coursera",
       logo_path: "coursera_logo.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/verify/TR3Q8G42GGF6",
-      alt_name: "freeCodeCamp",
-      color_code: "#ffffff",
-    },
-    {
-      title: "Responsive Web Design",
-      subtitle: "- Quincy Larson",
-      logo_path: "FreeCodeCamp_logo.png",
-      certificate_link:
-        "https://www.freecodecamp.org/certification/crocodile8/responsive-web-design",
-      alt_name: "freeCodeCamp",
+      alt_name: "coursera",
       color_code: "#ffffff",
     },
   ],
@@ -218,6 +317,17 @@ const experience = {
       title: "Internships",
       experiences: [
         {
+          title: "Data Science Intern",
+          company: "Codveda Technologies",
+          company_url: "https://codveda.com/",
+          logo_path: "codveda_technologies_logo.jpeg",
+          duration: "Jun 2025 - Jul 2025",
+          location: "Remote",
+          description:
+            "Participating in a variety of projects that require your expertise in data analysis, statistical modeling, and machine learning. Your contributions will be pivotal in extracting valuable insights from complex datasets, driving our company’s strategies and decision-making processes",
+          color: "#000000",
+        },
+        {
           title: "Ethical Hacking Intern",
           company: "Internship Studio",
           company_url: "https://internshipstudio.com/",
@@ -246,9 +356,9 @@ const experience = {
 
 // Projects Page
 const projectsHeader = {
-  title: "Projects",
+  title: "My Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools.",
+    "Given below are some of my web dev projects. To view my Data science projects, click the button below",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -256,7 +366,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "Taha-animated1.png",
+    profile_image_path: "Taha-Ghibli.png",
     description:
       "I am available on very limited social media but you can message me and I will reply within 24 hours.",
   },

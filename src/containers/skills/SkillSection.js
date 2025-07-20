@@ -4,8 +4,11 @@ import SoftwareSkill from "../../components/softwareSkills/SoftwareSkill";
 import { skills } from "../../portfolio";
 import { Fade } from "react-reveal";
 import FullStackImg from "./FullStackImg";
+import DataScienceImg from "./DataScienceImg";
 
 function GetSkillSvg(props) {
+  if (props.fileName === "DataScienceImg")
+    return <DataScienceImg theme={props.theme} />;
   return <FullStackImg theme={props.theme} />;
 }
 
@@ -19,7 +22,7 @@ class SkillSection extends Component {
             <div key={i} className="skills-main-div">
               <Fade left duration={2000}>
                 <div className="skills-image-div">
-                  <GetSkillSvg theme={theme} />
+                  <GetSkillSvg fileName={skill.fileName} theme={theme} />
                 </div>
               </Fade>
 
