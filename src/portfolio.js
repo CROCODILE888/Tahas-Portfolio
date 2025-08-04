@@ -25,6 +25,7 @@ const greeting = {
     "https://drive.google.com/drive/folders/13VzDf9EOpI4NibDO5XBDP89KSdUjaUXa?usp=drive_link",
   portfolio_repository: "https://github.com/CROCODILE888/Tahas-Portfolio",
   githubProfile: "https://github.com/CROCODILE888",
+  dataScienceProjectsPortfolio: "https://datascienceportfol.io/tahalokhandwala",
 };
 
 const socialMediaLinks = [

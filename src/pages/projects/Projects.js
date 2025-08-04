@@ -43,8 +43,10 @@ class Projects extends Component {
                   text={"Data Science projects"}
                   className="project-button"
                   href={
-                    greeting.githubProfile +
-                    "/Codveda-Data-Science-Internship-Tasks"
+                    greeting.dataScienceProjectsPortfolio
+                      ? greeting.dataScienceProjectsPortfolio
+                      : greeting.githubProfile +
+                        "/Codveda-Data-Science-Internship-Tasks"
                   }
                   newTab={true}
                   theme={theme}
