@@ -177,6 +177,18 @@ const skills = {
 const degrees = {
   degrees: [
     {
+      title: "Hochschule Neu-Ulm",
+      subtitle: "M.Sc. Artificial Intelligence and Data Analytics",
+      logo_path: "hnu-logo2.png",
+      alt_name: "HNU, Germany",
+      duration: "2025 - Present",
+      descriptions: [
+        "⚡ Focusing on data-driven business strategy, big data, and AI applications.",
+        "⚡ The program combines management, analytics, and IT to build skills for roles like data scientist, BI specialist, or AI consultant.",
+      ],
+      website_link: "https://www.hnu.de/",
+    },
+    {
       title: "Trinity Academy of Engineering",
       subtitle: "B.E. in Computer Science",
       logo_path: "taelogo.png",
@@ -289,6 +301,16 @@ const experience = {
       title: "Work",
       work: true,
       experiences: [
+        {
+          title: "Full Stack AI Agent Developer",
+          company: "Rubikon Labs",
+          company_url: "https://rubikonlabs.com/",
+          logo_path: "rubikon_labs_logo.jpeg",
+          // duration: "Nov 2024 - Jan 2025",
+          location: "Pune, India",
+          description: `Developed AI agents integrating LLMs using various tools like LangGraph and built AI workflows.`,
+          color: "#ffffff",
+        },
         {
           title: "Full Stack Developer",
           company: "Al Merak Tech",
